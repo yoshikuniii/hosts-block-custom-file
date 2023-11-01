@@ -1,0 +1,16 @@
+0.0.0.0 d3-umami.up.railway.app
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 searchads.apple.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 adtech.yahooinc.com
+0.0.0.0 www.advertising.yahooinc.com
